@@ -8,8 +8,8 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Junior High School: Amsic Integrated School
 - Elementary: Amsic Integrated School
 # My Projects
-Midterm Lab Task 1: 
-Midterm Lab Task 2: 
+- Midterm Lab Task 1: 
+- Midterm Lab Task 2: 
 
 > [!TIP]
 “The best way to predict the future is to invent it.” - Alan Kay
