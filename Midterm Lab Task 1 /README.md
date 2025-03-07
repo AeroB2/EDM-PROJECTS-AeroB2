@@ -20,3 +20,6 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 
 ![Screenshot 2025-03-05 171212.png](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/5bd43bc43440a44f3744e520752055dd2c7ec13f/Screenshot%202025-03-05%20171212.png)
+
+## Here's the Physical Data Model 
+![image](https://github.com/user-attachments/assets/182cb1c2-ef1c-49d2-8cd0-c3ef31f8617d)
