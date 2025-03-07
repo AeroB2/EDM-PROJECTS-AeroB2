@@ -10,5 +10,5 @@
 -Elementary: Amsic Integrated School
 
 ### My Projects
-- Midterm Lab Task 2
+- Midterm Lab Task 1
 - Midterm Lab Task 2
