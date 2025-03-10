@@ -8,7 +8,7 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Junior High School: Amsic Integrated School
 - Elementary: Amsic Integrated School
 # My Projects
-- Midterm Lab Task 1: ![Midterm Lab Task 1.md]()
+- Midterm Lab Task 1: ![Midterm Lab Task 1.md](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)
 - Midterm Lab Task 2: 
 
 > [!TIP]
