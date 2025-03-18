@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img align="center" alt="gif" width="400" src=https://i.pinimg.com/originals/3c/65/29/3c6529278afbbab1426fc31f5534f8c8.gif>
+  <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/3c/65/29/3c6529278afbbab1426fc31f5534f8c8.gif">
 </p>
 
 # ABOUT ME
