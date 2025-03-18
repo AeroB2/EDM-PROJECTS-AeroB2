@@ -1,4 +1,4 @@
-# Midterm Lab Task 2 - Data Cleaning and Transform Using Power Query Editor
+# *Midterm Lab Task 2: Data Cleaning and Transform Using Power Query Editor*💜
 
 ## Dataset Before Cleaning and Transformation 
 
@@ -42,7 +42,7 @@
 - Merge State Mapping with the raw data by State Abbreviation and rename the column to State Full Name.
 4. Reference for State:
   
--Create a reference, select State Full Name, Min Sal, and Max Sal, and group by State Full Name to find averages.
+- Create a reference, select State Full Name, Min Sal, and Max Sal, and group by State Full Name to find averages.
 
 ## Final Output 
 ![image](https://github.com/user-attachments/assets/3796abd6-1825-4330-a0dc-308dad13cc43)
