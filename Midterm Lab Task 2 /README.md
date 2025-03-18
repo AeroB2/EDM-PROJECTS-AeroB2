@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/8557355b-cd85-485a-b485-0b602906c021)
 
-## 🗃️*Data Cleaning Steps:*
+## 🗃️Data Cleaning Steps:
 1. Download and Load Data:
 
 - Download Uncleaned_DS_jobs.csv and open it in Excel using Data → New Query → Open File.
@@ -26,7 +26,7 @@
 4. Copy Steps:
 
 - Copy the applied steps for your portfolio.
-## ⭐*Reshape and Group Data:*
+## ⭐Reshape and Group Data:
 
 1. Duplicate for Role Type:
 
@@ -50,5 +50,5 @@
 ![image](https://github.com/user-attachments/assets/a3bc1fbd-2b4a-4b25-b34d-b5df5ed3ad0d)
 ![image](https://github.com/user-attachments/assets/a25f4c55-7f9c-4c1e-bfec-feb617f5eaee)
 
-##   Query Dependencies
+## Query Dependencies
 ![image](https://github.com/user-attachments/assets/2ed779b7-a495-4cd3-960f-86c6bf8dbe1b)
