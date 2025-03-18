@@ -1,4 +1,4 @@
-# **ISHIDASHFKJASHNFKLANFSKJASKJFASJKFNKASJBFJKSA**
+# Midterm Lab Task 2 - Data Cleaning and Transform Using Power Query Editor
 
 # 🗃️*Data Cleaning Steps:*
 1. Download and Load Data:
