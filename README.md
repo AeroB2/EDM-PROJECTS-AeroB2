@@ -9,7 +9,7 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Elementary: Amsic Integrated School
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation Using Excel ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)
-- Midterm Lab Task 2: [Data Cleaning and Transformation Using Power Query] 
+- Midterm Lab Task 2: [Data Cleaning and Transformation Using Power Query ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/edit/main/Midterm%20Lab%20Task%202%20/README.md)
 - Midterm Lab Task 3: [Using Pivot Table and Create Dashboard]
 > [!TIP]
 “The best way to predict the future is to invent it.” - Alan Kay
