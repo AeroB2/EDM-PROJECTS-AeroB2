@@ -19,8 +19,8 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Elementary: Amsic Integrated School
 
   <p align="center">
-   <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/f4/32/74/f43274ca2a5baf4903cdf77b3d148ced.gif">
-   </p>
+   <img align="center" alt="gif" width="420" src="https://i.pinimg.com/originals/01/11/16/0111164dcfa984f2513736c5e4705f32.gif">
+ </p>
 
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation Using Excel ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)
@@ -29,7 +29,7 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
   
  <p align="center">
    <img align="center" alt="gif" width="400" src="https://31.media.tumblr.com/8c46e19cf5200595c871fc6dcaa73087/tumblr_n1z3wdHk6P1r4zr8xo3_500.gif">
-   </p>
+ </p>
 
 
 > “The best way to predict the future is to invent it." - Alan Kay
