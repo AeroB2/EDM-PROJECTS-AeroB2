@@ -32,4 +32,4 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
  </p>
 
 
-> “The best way to predict the future is to invent it." - Alan Kay
+> “Inspiration unlocks the future.” - Jiro Horikoshi
