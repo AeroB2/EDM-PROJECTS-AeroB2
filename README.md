@@ -20,7 +20,7 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 
   <p align="center">
    <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/f4/32/74/f43274ca2a5baf4903cdf77b3d148ced.gif">
-
+   </p>
 
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation Using Excel ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)
