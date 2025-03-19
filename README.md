@@ -28,4 +28,4 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Midterm Lab Task 3: [Using Pivot Table and Create Dashboard ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%203%20/README.md)
 
 
->[!TIP] “The best way to predict the future is to invent it.” - Alan Kay
+> “The best way to predict the future is to invent it.” - Alan Kay
