@@ -29,6 +29,7 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
   
  <p align="center">
    <img align="center" alt="gif" width="400" src="https://31.media.tumblr.com/8c46e19cf5200595c871fc6dcaa73087/tumblr_n1z3wdHk6P1r4zr8xo3_500.gif">
+   </p>
 
 
 > “The best way to predict the future is to invent it.” - Alan Kay
