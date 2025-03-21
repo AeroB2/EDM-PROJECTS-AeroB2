@@ -11,6 +11,8 @@
 
 Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in the computer hardware, also in a troubleshooting wifi. He has successfully graduated in Systems Plus College Foundation with a strand of ICT. He is dedicated to learn everything about computer and passionate to be a professional Data Analyst soon.
 
+>TRIVIA: I want to be a pilot soon.
+
 # Education
 
 - College: Bachelor of Science in Information System (CCA)
