@@ -1,4 +1,4 @@
-# *Midterm Lab Task 1: Data Cleaning and Preparation Using Excel*💜
+# 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 1: 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐄𝐱𝐜𝐞𝐥💜
 For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
 
 ## STEP 1: DATA CLEANING PROCESS
