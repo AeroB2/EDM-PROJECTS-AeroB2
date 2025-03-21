@@ -1,10 +1,10 @@
-# *Midterm Lab Task 2: Data Cleaning and Transform Using Power Query Editor*💜
+# 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 2: 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐔𝐬𝐢𝐧𝐠 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 𝐄𝐝𝐢𝐭𝐨𝐫💜
 
 ## Dataset Before Cleaning and Transformation 
 
 ![image](https://github.com/user-attachments/assets/8557355b-cd85-485a-b485-0b602906c021)
 
-## 🗃️Data Cleaning Steps:
+## Data Cleaning Steps
 1. Download and Load Data:
 
 - Download Uncleaned_DS_jobs.csv and open it in Excel using Data → New Query → Open File.
@@ -12,7 +12,7 @@
 2. Duplicate Data:
 - Duplicate the raw data in Power Query.
 
-3. Data Cleaning:
+3. Data Cleaning
 
 - Salary Estimate: Extract values before parentheses.
 - Min/Max Salary: Create columns for Min and Max salary from Salary Estimate.
@@ -23,10 +23,10 @@
 - Clean Names: Remove extra text (e.g., "Rates") from company names.
 - Remove Descriptions: Delete the descriptions column.
 
-4. Copy Steps:
+4. Copy Steps
 
 - Copy the applied steps for your portfolio.
-## ⭐Reshape and Group Data:
+## Reshape and Group Data:
 
 1. Duplicate for Role Type:
 
