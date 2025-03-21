@@ -1,4 +1,4 @@
-# Aero's EDM Projects  
+# Aero's EDM PROJECTS 
 
 <h1 align="center"> Aero Abiga </h1>
 
