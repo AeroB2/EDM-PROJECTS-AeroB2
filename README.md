@@ -1,6 +1,6 @@
 # Aero's EDM PROJECTS 
 
-<h1 align="center"> Aero Abiga </h1>
+<h1 align="center"> Aero </h1>
 
 
 <p align="center">
