@@ -1,6 +1,6 @@
 # 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 3: 𝐔𝐬𝐢𝐧𝐠 𝐏𝐢𝐯𝐨𝐭 𝐓𝐚𝐛𝐥𝐞 𝐚𝐧𝐝 𝐂𝐫𝐞𝐚𝐭𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝💜
 
-## 1. Prepare Data:
+## *Prepare Data*
  Ensure you have the following tables:
   
 - Sal By Role (Role Type and Salary)
@@ -12,7 +12,7 @@
 ![image](https://github.com/user-attachments/assets/57e74bfc-9068-4778-8ad5-bfe2b900808f)
 
   
-## 2. Create Pivot Tables and Charts
+## *Create Pivot Tables and Charts*
 Data Science Jobs by State:
 
 - Pivot Table: State (Rows) and Role Type (Filter for Data Science).
@@ -26,18 +26,18 @@ Average Salary by Company Size:
 - Pivot Table: Size (Rows) and Salary (Average).
 - Chart: Bar or column chart for average salary by company size.
   
-## 3. Insert Slicers for Interactivity
+## *Insert Slicers for Interactivity*
 
 - Select a Pivot Table → Insert Slicer.
 - Add slicers for Role Type, Size, and State.
-## 4. Optional Map (If Available)
+## *Optional Map (If Available)*
 
 - If your Excel supports 3D Maps, visualize Data Science jobs by State on a map.
   
-## 5. Design the Dashboard
+## *Design the Dashboard*
 
 - Apply colors and design to make the dashboard look appealing.
 
-## 6. Test Your Dashboard
+## *Test Your Dashboard*
 
 ![image](https://github.com/user-attachments/assets/eea2c98f-2f2b-4e2d-91bc-751f419b7df2)
