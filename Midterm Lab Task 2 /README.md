@@ -1,10 +1,10 @@
 # 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 2: 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐔𝐬𝐢𝐧𝐠 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 𝐄𝐝𝐢𝐭𝐨𝐫💜
 
-## Dataset Before Cleaning and Transformation 
+## *Dataset Before Cleaning and Transformation*
 
 ![image](https://github.com/user-attachments/assets/8557355b-cd85-485a-b485-0b602906c021)
 
-## Data Cleaning Steps
+## *Data Cleaning Steps*
 1. Download and Load Data:
 
 - Download Uncleaned_DS_jobs.csv and open it in Excel using Data → New Query → Open File.
@@ -26,7 +26,8 @@
 4. Copy Steps
 
 - Copy the applied steps for your portfolio.
-## Reshape and Group Data:
+- 
+## *Reshape and Group Data*
 
 1. Duplicate for Role Type:
 
@@ -44,11 +45,11 @@
   
 - Create a reference, select State Full Name, Min Sal, and Max Sal, and group by State Full Name to find averages.
 
-## Final Output 
+## *Final Output*
 ![image](https://github.com/user-attachments/assets/3796abd6-1825-4330-a0dc-308dad13cc43)
 ![image](https://github.com/user-attachments/assets/79887d67-4a5d-4917-97a8-a9cd9d28fa80)
 ![image](https://github.com/user-attachments/assets/a3bc1fbd-2b4a-4b25-b34d-b5df5ed3ad0d)
 ![image](https://github.com/user-attachments/assets/a25f4c55-7f9c-4c1e-bfec-feb617f5eaee)
 
-## Query Dependencies
+## *Query Dependencies*
 ![image](https://github.com/user-attachments/assets/2ed779b7-a495-4cd3-960f-86c6bf8dbe1b)
