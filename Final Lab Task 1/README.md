@@ -1,6 +1,6 @@
 # 𝐅𝐢𝐧𝐚𝐥 𝐓𝐚𝐬𝐤 1: 𝐌𝐲 𝐒𝐐𝐋 𝐁𝐚𝐬𝐢𝐬💜
 
-## 1. Create an events table with fields
+## *Create an events table with fields*
 
 - event_id (int, auto-increment, primary key)
 
@@ -11,7 +11,7 @@
 
 
 
-## 2. Create an attendees table with fields
+## *Create an attendees table with fields*
 
 - attendee_id (int, auto-increment, primary key)
 
@@ -22,7 +22,7 @@
 
 
 
-## 3. Create an event attendees table with fields
+## *Create an event attendees table with fields*
 
 - event_id (int, foreign key to events.event_id)
 
@@ -35,7 +35,7 @@
 
 
 
-## 4. Create an event sponsors table with fields
+## *Create an event sponsors table with fields*
 
 - sponsor_id (int, auto-increment, primary key)
 
