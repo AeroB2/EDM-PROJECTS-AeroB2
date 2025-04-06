@@ -2,7 +2,6 @@
 
 <h1 align="center"> Aero </h1>
 
-
 <p align="center">
   <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/2c/45/fa/2c45fa7b020a0889c6a06298fbbbc6d1.gif">
 </p>
@@ -11,14 +10,14 @@
 
 Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in the computer hardware, also in a troubleshooting wifi. He has successfully graduated in Systems Plus College Foundation with a strand of ICT. He is dedicated to learn everything about computer and passionate to be a professional Data Analyst soon.
 
+>TRIVIA - I love airplanes.
+
 # Education
 
 - College: Bachelor of Science in Information System (CCA)
 - Senior High School: Information and Communication Technology (SPCF)
 - Junior High School: Amsic Integrated School
 - Elementary: Amsic Integrated School
-
->TRIVIA - I love airplanes.
 
   <p align="center">
    <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/01/11/16/0111164dcfa984f2513736c5e4705f32.gif">
