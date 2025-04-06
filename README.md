@@ -18,7 +18,7 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Junior High School: Amsic Integrated School
 - Elementary: Amsic Integrated School
 
-  >TRIVIA - I love airplanes.
+>TRIVIA - I love airplanes.
 
   <p align="center">
    <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/01/11/16/0111164dcfa984f2513736c5e4705f32.gif">
