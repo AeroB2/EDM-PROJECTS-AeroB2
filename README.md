@@ -1,6 +1,6 @@
 # Aero's EDM PROJECTS 
 
-<h1 align="center"> Aero </h1>
+# <h1 align="center"> Aero </h1>
 
 <p align="center">
   <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/2c/45/fa/2c45fa7b020a0889c6a06298fbbbc6d1.gif">
@@ -18,14 +18,6 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Senior High School: Information and Communication Technology [(SPCF) ](https://www.facebook.com/spcfofficial)
 - Junior High School: [Amsic Integrated School ](https://www.facebook.com/amsic.is)
 - Elementary: [Amsic Integrated School ](https://www.facebook.com/amsic.is)
-
-<h1>Follow Me!</h1>
-  <div class="social-links">
-    
-  <a href="https://www.instagram.com/ae.xxeroh/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram">
-</a>
-  
   
 # My Projects Midterm
 - Midterm Lab Task 1: [Data Cleaning and Preparation Using Excel ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)
@@ -35,3 +27,8 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 # My Projects Final
 - Final Lab Task 1: [My SQL Basis ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Final%20Lab%20Task%201/README.md)
 
+<p align="center">
+   <img align="center" alt="gif" width="400" src="https://31.media.tumblr.com/8c46e19cf5200595c871fc6dcaa73087/tumblr_n1z3wdHk6P1r4zr8xo3_500.gif">
+ </p>
+
+ > “Inspiration unlocks the future.” - Jiro Horikoshi
