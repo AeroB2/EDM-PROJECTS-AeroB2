@@ -35,5 +35,3 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 # My Projects Final
 - Final Lab Task 1: [My SQL Basis ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Final%20Lab%20Task%201/README.md)
 
-
-> “Inspiration unlocks the future.” - Jiro Horikoshi
