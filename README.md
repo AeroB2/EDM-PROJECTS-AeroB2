@@ -19,9 +19,7 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Junior High School: Amsic Integrated School
 - Elementary: Amsic Integrated School
 
-  <p align="center">
-   <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/01/11/16/0111164dcfa984f2513736c5e4705f32.gif">
-
+  
 # My Projects Midterm
 - Midterm Lab Task 1: [Data Cleaning and Preparation Using Excel ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)
 - Midterm Lab Task 2: [Data Cleaning and Transformation Using Power Query ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%202%20/README.md)
