@@ -19,6 +19,19 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Junior High School: [Amsic Integrated School ](https://www.facebook.com/amsic.is)
 - Elementary: [Amsic Integrated School ](https://www.facebook.com/amsic.is)
 
+# Contacts
+
+<h1>Follow Me!</h1>
+  <div class="social-links">
+    <a ="https://www.instagram.com/yourusername" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram">
+    </a>
+    <a https://www.facebook.com/capt.aero28="https://www.facebook.com/yourusername" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook">
+    </a>https://www.instagram.com/ae.xxeroh/
+    <a href="https://www.tiktok.com/@yourusername" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo_2021.svg" alt="TikTok">
+    </a>
   
 # My Projects Midterm
 - Midterm Lab Task 1: [Data Cleaning and Preparation Using Excel ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)
