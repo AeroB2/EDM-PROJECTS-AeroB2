@@ -14,8 +14,8 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 
 # Education
 
-- College: Bachelor of Science in Information System [CCA ](https://www.facebook.com/CityCollegeOfAngeles)
-- Senior High School: Information and Communication Technology [SPCF ](https://www.facebook.com/spcfofficial)
+- College: Bachelor of Science in Information System [(CCA) ](https://www.facebook.com/CityCollegeOfAngeles)
+- Senior High School: Information and Communication Technology [(SPCF) ](https://www.facebook.com/spcfofficial)
 - Junior High School: [Amsic Integrated School ](https://www.facebook.com/amsic.is)
 - Elementary: [Amsic Integrated School ](https://www.facebook.com/amsic.is)
 
