@@ -1,6 +1,4 @@
-# Aero's EDM PROJECTS 
-
-# <h1 align="center"> Aero </h1>
+<h1 align="center"> Aero </h1>
 
 <p align="center">
   <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/2c/45/fa/2c45fa7b020a0889c6a06298fbbbc6d1.gif">
