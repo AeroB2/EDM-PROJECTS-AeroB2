@@ -1,6 +1,6 @@
 # 📑𝐅𝐢𝐧𝐚𝐥 𝐓𝐚𝐬𝐤 1: 𝐌𝐲 𝐒𝐐𝐋 𝐁𝐚𝐬𝐢𝐬
 
-## *Create an events table with fields*
+## ***Create an events table with fields***
 
 - event_id (int, auto-increment, primary key)
 
@@ -9,9 +9,7 @@
 
 ![image](https://github.com/user-attachments/assets/e336df5d-2410-4aaa-8d69-7e6aaa8d690d)
 
-
-
-## *Create an attendees table with fields*
+## ***Create an attendees table with fields***
 
 - attendee_id (int, auto-increment, primary key)
 
@@ -22,7 +20,7 @@
 
 
 
-## *Create an event attendees table with fields*
+## ***Create an event attendees table with fields***
 
 - event_id (int, foreign key to events.event_id)
 
@@ -34,7 +32,7 @@
 ![image](https://github.com/user-attachments/assets/2fad3ad2-08a4-4f64-a58c-21617ec5ddc2)
 
 
-## *Create an event sponsors table with fields*
+## ***Create an event sponsors table with fields***
 
 - sponsor_id (int, auto-increment, primary key)
 
