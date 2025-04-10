@@ -1,4 +1,4 @@
-# 𝐅𝐢𝐧𝐚𝐥 𝐓𝐚𝐬𝐤 1: 𝐌𝐲 𝐒𝐐𝐋 𝐁𝐚𝐬𝐢𝐬💜
+# 📑𝐅𝐢𝐧𝐚𝐥 𝐓𝐚𝐬𝐤 1: 𝐌𝐲 𝐒𝐐𝐋 𝐁𝐚𝐬𝐢𝐬
 
 ## *Create an events table with fields*
 
@@ -32,7 +32,6 @@
   
 
 ![image](https://github.com/user-attachments/assets/2fad3ad2-08a4-4f64-a58c-21617ec5ddc2)
-
 
 
 ## *Create an event sponsors table with fields*
