@@ -23,7 +23,7 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 - Midterm Lab Task 3: [Using Pivot Table and Create Dashboard ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%203%20/README.md)
 
 # My Projects Final
-- Final Lab Task 1: [My SQL Basis ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Final%20Lab%20Task%201/README.md)
+- Final Lab Task 1: [Events Management DB ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Final%20Lab%20Task%201/README.md)
 
 <p align="center">
    <img align="center" alt="gif" width="400" src="https://31.media.tumblr.com/8c46e19cf5200595c871fc6dcaa73087/tumblr_n1z3wdHk6P1r4zr8xo3_500.gif">
