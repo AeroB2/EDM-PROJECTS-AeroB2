@@ -42,4 +42,8 @@
 
 ![image](https://github.com/user-attachments/assets/4b08f288-fc71-4a40-a66b-b935d125fc30)
 
+# ***SQL Copy of Database and Table Structures***
+
+
+
 
