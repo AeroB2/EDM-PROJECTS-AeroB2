@@ -1,18 +1,18 @@
 # 📑𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 2: 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐔𝐬𝐢𝐧𝐠 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 𝐄𝐝𝐢𝐭𝐨𝐫
 
-## *Dataset Before Cleaning and Transformation*
+## ***Dataset Before Cleaning and Transformation***
 
 ![image](https://github.com/user-attachments/assets/8557355b-cd85-485a-b485-0b602906c021)
 
 ## *Data Cleaning Steps*
-1. Download and Load Data:
+**1. Download and Load Data:**
 
 - Download Uncleaned_DS_jobs.csv and open it in Excel using Data → New Query → Open File.
 
-2. Duplicate Data:
+**2. Duplicate Data:**
 - Duplicate the raw data in Power Query.
 
-3. Data Cleaning
+**3. Data Cleaning**
 
 - Salary Estimate: Extract values before parentheses.
 - Min/Max Salary: Create columns for Min and Max salary from Salary Estimate.
@@ -23,25 +23,25 @@
 - Clean Names: Remove extra text (e.g., "Rates") from company names.
 - Remove Descriptions: Delete the descriptions column.
 
-4. Copy Steps
+**4. Copy Steps**
 
 - Copy the applied steps for your portfolio.
-- 
+
 ## *Reshape and Group Data*
 
-1. Duplicate for Role Type:
+**1. Duplicate for Role Type:**
 
 - Duplicate the raw data and select Role Type, Min Sal, and Max Sal.
 - Multiply Min and Max Sal by 1000 and group by Role Type to find averages.
 
-2.Reference for Size:
+**2.Reference for Size:**
 
 - Create a reference, select Size, Min Sal, and Max Sal, then group by Size to find averages.
 
-3. State Mapping:
+**3. State Mapping:**
 
 - Merge State Mapping with the raw data by State Abbreviation and rename the column to State Full Name.
-4. Reference for State:
+**4. Reference for State:**
   
 - Create a reference, select State Full Name, Min Sal, and Max Sal, and group by State Full Name to find averages.
 
