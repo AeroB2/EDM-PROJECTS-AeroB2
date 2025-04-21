@@ -12,10 +12,10 @@ Aero Abiga a CCA student. Specializing in fixing some of a little bit issues in 
 
 # Education
 
-- College: Bachelor of Science in Information System [(CCA) ](https://www.facebook.com/CityCollegeOfAngeles)
-- Senior High School: Information and Communication Technology [(SPCF) ](https://www.facebook.com/spcfofficial)
-- Junior High School: [Amsic Integrated School ](https://www.facebook.com/amsic.is)
-- Elementary: [Amsic Integrated School ](https://www.facebook.com/amsic.is)
+- **College: Bachelor of Science in Information System** [(CCA) ](https://www.facebook.com/CityCollegeOfAngeles)
+- **Senior High School: Information and Communication Technology** [(SPCF) ](https://www.facebook.com/spcfofficial)
+- **Junior High School:** [Amsic Integrated School ](https://www.facebook.com/amsic.is)
+- **Elementary:** [Amsic Integrated School ](https://www.facebook.com/amsic.is)
   
 # My Projects Midterm
 - **Midterm Lab Task 1:** [Data Cleaning and Preparation Using Excel ](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)
