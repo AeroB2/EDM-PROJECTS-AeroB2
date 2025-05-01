@@ -6,7 +6,7 @@
 
 <h1 align="center"> Profile </h1>
 
-<h1 align="center"> Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technology and continuous learning. I specialize in addressing minor computer hardware issues and troubleshooting Wi-Fi connectivity problems—skills that I’ve developed through hands-on experience and personal curiosity. My technical abilities are matched by my eagerness to explore the ever-evolving world of information technology. </h1>
+Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technology and continuous learning. I specialize in addressing minor computer hardware issues and troubleshooting Wi-Fi connectivity problems—skills that I’ve developed through hands-on experience and personal curiosity. My technical abilities are matched by my eagerness to explore the ever-evolving world of information technology.
 
 >TRIVIA : I love airplanes
 
