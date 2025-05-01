@@ -10,18 +10,6 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
 
 >TRIVIA : I love airplanes
 
-
-  <h1>Connect with Me</h1>
-
-  <div class="social-links">
-  <a href="https://www.facebook.com/capt.aero28" target="_blank">
-     
-  <a href="https://www.tiktok.com/@aa4on_?_t=ZS-8vzu4eZl8Tt&_r=1" target="_blank">
-     
-  <a href="https://www.instagram.com/ae.xxeroh/?igsh=MWR4eTFiYnU2M3hwNQ%3D%3D#" target="_blank">
-     
-
-
  <h1 align="center"> 🎓Academic Background </h1>
 
 - **College: Bachelor of Science in Information System** [(CCA) ](https://www.facebook.com/CityCollegeOfAngeles)
