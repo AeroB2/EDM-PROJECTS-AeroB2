@@ -35,3 +35,5 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
  </p>
 
  > “Inspiration unlocks the future.” - Jiro Horikoshi
+
+    haha
