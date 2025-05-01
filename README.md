@@ -6,11 +6,7 @@
 
 # Profile
 
-Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technology and continuous learning. I specialize in addressing minor computer hardware issues and troubleshooting Wi-Fi connectivity problems—skills that I’ve developed through hands-on experience and personal curiosity. My technical abilities are matched by my eagerness to explore the ever-evolving world of information technology.
-
-I am a proud graduate of Systems Plus College Foundation, where I pursued the ICT (Information and Communications Technology) strand. This educational background laid a solid foundation in computing, networking, and system operations, sparking my deep interest in data and how it shapes decisions in the modern world.
-
-Currently, I am working hard to expand my knowledge and skill set with the goal of becoming a professional Data Analyst. I’m especially drawn to data-driven problem solving, understanding trends, and using insights to support smarter decision-making. With a curious mind and a strong work ethic, I am committed to growing not just as a technician, but as a tech professional who can make an impact.
+Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technology and continuous learning. I specialize in addressing minor computer hardware issues and troubleshooting Wi-Fi connectivity problems—skills that I’ve developed through hands-on experience and personal curiosity. My technical abilities are matched by my eagerness to explore the ever-evolving world of information technology. Currently, I am working hard to expand my knowledge and skill set with the goal of becoming a professional Data Analyst. I’m especially drawn to data-driven problem solving, understanding trends, and using insights to support smarter decision-making. With a curious mind and a strong work ethic, I am committed to growing not just as a technician, but as a tech professional who can make an impact.
 
 >TRIVIA : I love airplanes
 
