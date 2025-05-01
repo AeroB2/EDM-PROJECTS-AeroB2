@@ -10,41 +10,16 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
 
 >TRIVIA : I love airplanes
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>My Social Media Links</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-      text-align: center;
-      padding: 50px;
-    }
-
-  
-  </style>
-</head>
-<body>
 
   <h1>Connect with Me</h1>
 
   <div class="social-links">
-    <a href="https://www.facebook.com/capt.aero28" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook">
-    </a>
-    <a href="https://www.tiktok.com/@aa4on_?_t=ZS-8vzu4eZl8Tt&_r=1" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok">
-    </a>
-    <a href="https://www.instagram.com/ae.xxeroh/?igsh=MWR4eTFiYnU2M3hwNQ%3D%3D#" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram">
-    </a>
-  </div>
-
-</body>
-</html>
+  <a href="https://www.facebook.com/capt.aero28" target="_blank">
+     
+  <a href="https://www.tiktok.com/@aa4on_?_t=ZS-8vzu4eZl8Tt&_r=1" target="_blank">
+     
+  <a href="https://www.instagram.com/ae.xxeroh/?igsh=MWR4eTFiYnU2M3hwNQ%3D%3D#" target="_blank">
+     
 
 
  <h1 align="center"> 🎓Academic Background </h1>
