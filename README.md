@@ -26,15 +26,6 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
   </a>
 
-<a href="mailto:aabiga24-1370@cca.edu.ph" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" />
-  </a>
-  <a href="https://www.youtube.com/feed/you" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" />
-  </a>
-</p>
-
-
  <h1 align="center"> 🎓Academic Background </h1>
 
 - **College: Bachelor of Science in Information System** [(CCA) ](https://www.facebook.com/CityCollegeOfAngeles)
