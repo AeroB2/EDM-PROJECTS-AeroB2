@@ -18,11 +18,11 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
   </a>
   
   <a href="https://www.tiktok.com/@aa4on_?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/TikTok_Logo.svg" alt="TikTok" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="40" />
   </a>
   
   <a href="https://www.instagram.com/ae.xxeroh/?igsh=MWR4eTFiYnU2M3hwNQ%3D%3D#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
   </a>
 </p>
 
