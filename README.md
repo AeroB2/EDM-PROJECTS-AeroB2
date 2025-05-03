@@ -41,18 +41,18 @@ Hi, I'm **Aero Abiga**, a dedicated student of **CCA** with a strong passion for
 
 ## 📚 Midterm Milestones
 
-- **Lab Task 1:** [Data Cleaning and Preparation Using Excel](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)  
-- **Lab Task 2:** [Data Cleaning and Transformation Using Power Query](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%202%20/README.md)  
-- **Lab Task 3:** [Using Pivot Table and Create Dashboard](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%203%20/README.md)  
+- **Midterm Lab Task 1:** [Data Cleaning and Preparation Using Excel](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%201%20/README.md)  
+- **Midterm Lab Task 2:** [Data Cleaning and Transformation Using Power Query](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%202%20/README.md) 
+- **Midterm Lab Task 3:** [Using Pivot Table and Create Dashboard](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Midterm%20Lab%20Task%203%20/README.md)  
 
 ---
 
 ## 📚 Final Milestones
 
-- **Lab Task 1:** [Events Management DB](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Final%20Lab%20Task%201/README.md)  
-- **Lab Task 2:** [Transforming ER Model to Relational Tables](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Final%20Lab%20Task%202/README.md)  
-- **Lab Task 3:** [Table Manipulation](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/tree/main/Fiinal%20Lab%20Task%203)  
-- **Lab Task 4:** [Using Select Statement](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/tree/main/Final%20Lab%20Task%204)  
+- **Final Lab Task 1:** [Events Management DB](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Final%20Lab%20Task%201/README.md)  
+- **Final Lab Task 2:** [Transforming ER Model to Relational Tables](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/blob/main/Final%20Lab%20Task%202/README.md)  
+- **Final Lab Task 3:** [Table Manipulation](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/tree/main/Fiinal%20Lab%20Task%203)  
+- **Final Lab Task 4:** [Using Select Statement](https://github.com/AeroB2/EDM-PROJECTS-AeroB2/tree/main/Final%20Lab%20Task%204)  
 
 ---
 
