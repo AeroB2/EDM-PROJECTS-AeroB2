@@ -27,13 +27,13 @@ Hi, I'm **Aero Abiga**, a dedicated student of **CCA** with a strong passion for
 
 <p align="center">
   <a href="https://www.facebook.com/capt.aero28" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE5bTB2enV0djNoZWI0bXliZ3I3MHBuZ3h2YWJlcHg4NWp5OGZsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RN8AKmUQKnRfqfGe0h/giphy.gif" alt="Facebook" width="50" />
   </a>
   <a href="https://www.tiktok.com/@aa4on_?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="40" />
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h4MHE1eGRvOGl3Z2J0emowZHN5ZGRqYmR0OHh6dzZvYTZnN2s0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9HZq1itMkiK652/giphy.gif" alt="TikTok" width="50" />
   </a>
   <a href="https://www.instagram.com/ae.xxeroh/?igsh=MWR4eTFiYnU2M3hwNQ%3D%3D#" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU2ODZjczB3dXE0azlscW9rNm95djFxMGlka2h1NWxnc3htZW1zNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZEZuvPTO0tJwDKnGWB/giphy.gif" alt="Instagram" width="50" />
   </a>
 </p>
 
