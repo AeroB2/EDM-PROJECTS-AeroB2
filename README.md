@@ -28,13 +28,13 @@ Hi, I'm **Aero Abiga**, a dedicated student of **CCA** with a strong passion for
 <p align="center">
  <p align="center">
   <a href="https://www.facebook.com/capt.aero28" target="_blank">
-    <img src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif" alt="Facebook" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
   </a>
-  <a href="https://www.tiktok.com/@aa4on_?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://i.pinimg.com/originals/77/97/19/7797190f0f3efd9d5b0b96963d97ed5a.gif" alt="TikTok" width="60" />
+  <a href="https://www.tiktok.com/@ad4m_s?_t=ZS-8w36dJ8dBTw&_r=1" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="40" />
   </a>
   <a href="https://www.instagram.com/ae.xxeroh/?igsh=MWR4eTFiYnU2M3hwNQ%3D%3D#" target="_blank">
-    <img src="https://i.postimg.cc/8CxNRV8T/output-onlinegiftools-unscreen.gif" alt="Instagram" width="60" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
   </a>
 </p>
 
