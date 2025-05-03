@@ -12,7 +12,7 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
 
 ## 🌐 Connect with me
 
-</p>
+<p>
   <a href="https://www.facebook.com/capt.aero28" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
   </a>
