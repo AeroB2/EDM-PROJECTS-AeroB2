@@ -10,8 +10,9 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
 
 >TRIVIA : I love airplanes
 
- 🌐 Connect with me
+## 🌐 Connect with me
 
+</p>
   <a href="https://www.facebook.com/capt.aero28" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
   </a>
@@ -23,6 +24,7 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
   <a href="https://www.instagram.com/ae.xxeroh/?igsh=MWR4eTFiYnU2M3hwNQ%3D%3D#" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
   </a>
+</p>
 
  <h1 align="center"> 🎓Academic Background </h1>
 
