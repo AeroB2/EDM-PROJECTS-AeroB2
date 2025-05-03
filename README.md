@@ -10,10 +10,17 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
 
 >TRIVIA : I love airplanes
 
-## 🌐 Connect with me
+<h1 align="center"> 🎓Academic Background </h1>
 
-<p>
-  <a href="https://www.facebook.com/capt.aero28" target="_blank">
+- **College: Bachelor of Science in Information System** [(CCA) ](https://www.facebook.com/CityCollegeOfAngeles)
+- **Senior High School: Information and Communication Technology** [(SPCF) ](https://www.facebook.com/spcfofficial)
+- **Junior High School:** [Amsic Integrated School ](https://www.facebook.com/amsic.is)
+- **Elementary:** [Amsic Integrated School ](https://www.facebook.com/amsic.is)
+
+<h1 align="center"> 🌐 Connect with me </h1>
+
+
+<h1 align="center">  <a href="https://www.facebook.com/capt.aero28" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
   </a>
   
@@ -25,13 +32,6 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
   </a>
 </p>
-
- <h1 align="center"> 🎓Academic Background </h1>
-
-- **College: Bachelor of Science in Information System** [(CCA) ](https://www.facebook.com/CityCollegeOfAngeles)
-- **Senior High School: Information and Communication Technology** [(SPCF) ](https://www.facebook.com/spcfofficial)
-- **Junior High School:** [Amsic Integrated School ](https://www.facebook.com/amsic.is)
-- **Elementary:** [Amsic Integrated School ](https://www.facebook.com/amsic.is)
   
 <h1 align="center"> 📚Midterm Milestones </h1>
 
