@@ -31,7 +31,6 @@ Hi, I'm Aero Abiga, a dedicated student of CCA with a strong passion for technol
   <a href="https://www.instagram.com/ae.xxeroh/?igsh=MWR4eTFiYnU2M3hwNQ%3D%3D#" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
   </a>
-</p>
   
 <h1 align="center"> 📚Midterm Milestones </h1>
 
